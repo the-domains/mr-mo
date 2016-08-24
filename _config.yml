@@ -6,9 +6,9 @@ color:
   saturation: 0.4412162227090448
   rhythmicContrast: 0.16832101927138865
   brandColors:
-    - '#FE0000'
-    - '#FFFFFF'
-    - '#000000'
-    - '#7E7E7E'
-    - '#FE3F3E'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Mr. Mo
