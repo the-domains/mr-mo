@@ -12,4 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.6418868764303625
 name: Mr. Mo
+navigation:
+  - name: TEST
+    url: WWW.MRMO.BE
+    type: external
 title: MR. MO
+description: TO INSPIRE
