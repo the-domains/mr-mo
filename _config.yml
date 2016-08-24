@@ -1,4 +1,3 @@
-layout_spectrum: 0.6418868764303625
 typography_spectrum: 0.04332081857137382
 color:
   brandStrength: 0.23082372825592756
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.6418868764303625
 name: Mr. Mo
+title: MR. MO
